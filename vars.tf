@@ -13,7 +13,7 @@ variable "tnt_id" {
 }
 variable "rg_name" {}
 variable "location" {
-    defult = "West India"
+    default = "West India"
 }
 variable "vnet_name" {}
 variable "cidr" {}
