@@ -49,27 +49,27 @@ variables:
     default: West India
     type_hint: Refer Skillet guide
   - name: bootstrap_sa1
-    description: Azure Sotrage Account for Firewall-1 Bootstrap
+    description: Azure Storage Account for Firewall-1 Bootstrap
     default: 
     type_hint: Refer Skillet guide
   - name: sa_key1
-    description: Azure Sotrage Account key
+    description: Azure Storage Account key
     default: 
     type_hint: Refer Skillet guide  
   - name: file_share1
-    description: Azure Sotrage Account File Share Name
+    description: Azure Storage Account File Share Name
     default: 
     type_hint: Refer Skillet guide  
   - name: bootstrap_sa2
-    description: Azure Sotrage Account for Firewall-2 Bootstrap
+    description: Azure Storage Account for Firewall-2 Bootstrap
     default: 
     type_hint: Refer Skillet guide
   - name: sa_key2
-    description: Azure Sotrage Account key
+    description: Azure Storage Account key
     default: 
     type_hint: Refer Skillet guide  
   - name: file_share2
-    description: Azure Sotrage Account File Share Name
+    description: Azure Storage Account File Share Name
     default: 
     type_hint: Refer Skillet guide  
   - name: mysourceip
